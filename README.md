@@ -89,7 +89,7 @@ results/
     literature_validation.csv          ← 7 core claims vs. primary literature
     ... (screens, degradability, GWAS, repurposing, trials, landscape)
 data/
-  README.md  ← how to get the 16 GB h5ad + the checkpoints (not committed)
+  README.md  ← how to get the 16 GB h5ad + the checkpoints (not committed) due to large-size
 ```
 
 ## Data
