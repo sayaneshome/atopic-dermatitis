@@ -45,8 +45,7 @@ python pipeline/run_th2_screen.py    # loads the released 16 GB h5ad, runs the s
 #   [STAT6] self rank 1 (cos 0.860)
 ```
 
-A judge who sees that line can trust everything downstream: the pipeline re-derives its
-own positive controls from raw data.
+
 
 ---
 
