@@ -1,0 +1,13 @@
+drug,target_gene,n_ad_trials,max_ad_phase,example_ncts,ad_status
+ritlecitinib,ITK,0,none,,UNTESTED in AD (open repurposing)
+tazemetostat,EZH2,0,none,,UNTESTED in AD (open repurposing)
+dasatinib,LCK,0,none,,UNTESTED in AD (open repurposing)
+anifrolumab,IFNAR1,0,none,,UNTESTED in AD (open repurposing)
+brepocitinib,TYK2,0,none,,UNTESTED in AD (open repurposing)
+cerdulatinib,TYK2,0,none,,UNTESTED in AD (open repurposing)
+salirasib,NRAS,0,none,,UNTESTED in AD (open repurposing)
+mepazine,MALT1,0,none,,UNTESTED in AD (open repurposing)
+alefacept,CD2,2,PHASE4,NCT00832585; NCT00376129,already in AD trials
+deucravacitinib,TYK2,3,PHASE4,NCT07021495; NCT06999941; NCT07352566,already in AD trials
+gusacitinib,,4,PHASE2,NCT03139981; NCT03728504; NCT03654755,already in AD trials
+delgocitinib,TYK2,11,PHASE3,NCT05355818; NCT04949841; NCT06004050,already in AD trials

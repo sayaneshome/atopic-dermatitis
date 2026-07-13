@@ -1,0 +1,123 @@
+gene,sm_tier,sm_ligand_score,degrader_tier,degrader_score
+ACTR8,structural ligand/pocket,2.0,moderate (structural ligand),3
+ADAM19,none,0.0,low,0
+BATF,none,0.0,low,0
+BHLHE40,none,0.0,"handle only (ubiquitinated, no ligand)",1
+BRD1,high-quality pocket/ligand,3.0,high (HQ ligand + ubiquitination),4
+BRK1,structural ligand/pocket,2.0,moderate (structural ligand),3
+CAND1,none,0.0,low,0
+CAPZA1,structural ligand/pocket,2.0,moderate (structural ligand),3
+CD3E,clinical,3.5,high (HQ ligand + ubiquitination),4
+CLCC1,none,0.0,low,0
+CNOT6L,structural ligand/pocket,2.0,moderate (structural ligand),3
+COPS9,none,0.0,low,0
+COQ3,none,0.0,low,0
+COX15,none,0.0,low,0
+CREB1,none,0.0,possible (PR binder only),2
+DAP,none,0.0,low,0
+DCAF5,none,0.0,low,0
+DGKZ,none,0.0,possible (PR binder only),2
+DOHH,structural ligand/pocket,2.0,moderate (structural ligand),3
+EDC3,high-quality pocket/ligand,3.0,high (HQ ligand + ubiquitination),4
+EIF3L,structural ligand/pocket,2.0,moderate (structural ligand),3
+ELP5,none,0.0,low,0
+ERCC1,high-quality pocket/ligand,3.0,high (HQ ligand + ubiquitination),4
+FBXO32,none,0.0,low,0
+GNS,none,0.0,low,0
+HDHD3,high-quality pocket/ligand,3.0,high (HQ ligand + ubiquitination),4
+HPS1,none,0.0,low,0
+ID2,none,0.0,"handle only (ubiquitinated, no ligand)",1
+IL2RB,approved drug,4.0,high (HQ ligand + ubiquitination),4
+IL4R,clinical,3.5,high (HQ ligand + ubiquitination),4
+INO80,structural ligand/pocket,2.0,moderate (structural ligand),3
+INPP5F,none,0.0,low,0
+ITK,approved drug,4.0,high (HQ ligand + ubiquitination),4
+KDM3B,structural ligand/pocket,2.0,moderate (structural ligand),3
+KMT2C,high-quality pocket/ligand,3.0,high (HQ ligand + ubiquitination),4
+KPNA1,none,0.0,"handle only (ubiquitinated, no ligand)",1
+LAT2,none,0.0,"handle only (ubiquitinated, no ligand)",1
+LEO1,none,0.0,low,0
+MLST8,clinical,3.5,high (HQ ligand + ubiquitination),4
+MYB,high-quality pocket/ligand,3.0,high (HQ ligand + ubiquitination),4
+MYO9A,none,0.0,low,0
+NAA40,structural ligand/pocket,2.0,moderate (structural ligand),3
+NCAPG2,none,0.0,low,0
+NFKBIL1,none,0.0,low,0
+NFRKB,none,0.0,"handle only (ubiquitinated, no ligand)",1
+NRAS,clinical,3.5,high (HQ ligand + ubiquitination),4
+ORAI1,high-quality pocket/ligand,3.0,high (HQ ligand + ubiquitination),4
+OTUD4,none,0.0,low,0
+PARP14,high-quality pocket/ligand,3.0,high (HQ ligand + ubiquitination),4
+PCYT2,high-quality pocket/ligand,3.0,high (HQ ligand + ubiquitination),4
+PDCL,structural ligand/pocket,2.0,moderate (structural ligand),3
+PDSS1,none,0.0,low,0
+PHF8,high-quality pocket/ligand,3.0,high (HQ ligand + ubiquitination),4
+PLCG1,high-quality pocket/ligand,3.0,high (HQ ligand + ubiquitination),4
+PPP3R1,structural ligand/pocket,2.0,moderate (structural ligand),3
+PPP4C,none,0.0,possible (PR binder only),2
+PRR12,none,0.0,low,0
+PTPRC,high-quality pocket/ligand,3.0,high (HQ ligand + ubiquitination),4
+RAC2,structural ligand/pocket,2.0,moderate (structural ligand),3
+SAMD1,none,0.0,low,0
+SARS2,structural ligand/pocket,2.0,moderate (structural ligand),3
+SEC14L2,structural ligand/pocket,2.0,moderate (structural ligand),3
+SMAD4,high-quality pocket/ligand,3.0,high (HQ ligand + ubiquitination),4
+SMARCA4,high-quality pocket/ligand,3.0,high (HQ ligand + ubiquitination),4
+SMARCB1,structural ligand/pocket,2.0,moderate (structural ligand),3
+SMARCC1,none,0.0,"handle only (ubiquitinated, no ligand)",1
+SMARCE1,structural ligand/pocket,2.0,moderate (structural ligand),3
+TASOR,none,0.0,"handle only (ubiquitinated, no ligand)",1
+TBL1XR1,none,0.0,"handle only (ubiquitinated, no ligand)",1
+TEFM,structural ligand/pocket,2.0,moderate (structural ligand),3
+TENT2,none,0.0,low,0
+TMED9,structural ligand/pocket,2.0,moderate (structural ligand),3
+TMX1,none,0.0,low,0
+TNPO1,structural ligand/pocket,2.0,moderate (structural ligand),3
+TOR1A,structural ligand/pocket,2.0,moderate (structural ligand),3
+TPD52,none,0.0,low,0
+UBE2F,none,0.0,low,0
+WNK1,high-quality pocket/ligand,3.0,high (HQ ligand + ubiquitination),4
+ZAP70,high-quality pocket/ligand,3.0,high (HQ ligand + ubiquitination),4
+ZNF649,none,0.0,"handle only (ubiquitinated, no ligand)",1
+ADNP2,none,0.0,"handle only (ubiquitinated, no ligand)",1
+AIP,structural ligand/pocket,2.0,moderate (structural ligand),3
+AK3,structural ligand/pocket,2.0,moderate (structural ligand),3
+ARNT,high-quality pocket/ligand,3.0,high (HQ ligand + ubiquitination),4
+CD2,approved drug,4.0,high (HQ ligand + ubiquitination),4
+CD247,structural ligand/pocket,2.0,moderate (structural ligand),3
+CD28,structural ligand/pocket,2.0,moderate (structural ligand),3
+CFAP20,structural ligand/pocket,2.0,moderate (structural ligand),3
+CLASRP,none,0.0,low,0
+CREBBP,clinical,3.5,high (HQ ligand + ubiquitination),4
+CSK,high-quality pocket/ligand,3.0,high (HQ ligand + ubiquitination),4
+CTDSPL2,none,0.0,low,0
+DOCK2,high-quality pocket/ligand,3.0,high (HQ ligand + ubiquitination),4
+ELP3,structural ligand/pocket,2.0,moderate (structural ligand),3
+EZH2,approved drug,4.0,high (HQ ligand + ubiquitination),4
+GCN1,none,0.0,low,0
+HSP90AB1,clinical,3.5,high (HQ ligand + ubiquitination),4
+IFNAR1,approved drug,4.0,high (HQ ligand + ubiquitination),4
+IRF2BP1,none,0.0,"handle only (ubiquitinated, no ligand)",1
+LCK,approved drug,4.0,high (HQ ligand + ubiquitination),4
+MALT1,approved drug,4.0,high (HQ ligand + ubiquitination),4
+MEAF6,none,0.0,"handle only (ubiquitinated, no ligand)",1
+MFSD4B,none,0.0,low,0
+MORC2,structural ligand/pocket,2.0,moderate (structural ligand),3
+NCKAP1L,none,0.0,low,0
+NDFIP2,none,0.0,"handle only (ubiquitinated, no ligand)",1
+PCBP1,none,0.0,"handle only (ubiquitinated, no ligand)",1
+PGAM1,high-quality pocket/ligand,3.0,high (HQ ligand + ubiquitination),4
+PGK1,high-quality pocket/ligand,3.0,high (HQ ligand + ubiquitination),4
+PKM,high-quality pocket/ligand,3.0,high (HQ ligand + ubiquitination),4
+PPIH,structural ligand/pocket,2.0,moderate (structural ligand),3
+RCOR1,high-quality pocket/ligand,3.0,high (HQ ligand + ubiquitination),4
+RSBN1L,none,0.0,"handle only (ubiquitinated, no ligand)",1
+SIAH2,none,0.0,low,0
+STAT2,none,0.0,"handle only (ubiquitinated, no ligand)",1
+STIP1,structural ligand/pocket,2.0,moderate (structural ligand),3
+UBE2V2,structural ligand/pocket,2.0,moderate (structural ligand),3
+USF2,none,0.0,low,0
+VAV1,structural ligand/pocket,2.0,moderate (structural ligand),3
+WAC,none,0.0,low,0
+WASF2,structural ligand/pocket,2.0,moderate (structural ligand),3
+ZNF613,none,0.0,low,0

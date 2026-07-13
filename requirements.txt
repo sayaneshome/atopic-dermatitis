@@ -1,0 +1,16 @@
+# Core analysis stack (Python 3.13)
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+h5py>=3.10
+anndata>=0.10
+scanpy>=1.10
+pyarrow>=14
+matplotlib>=3.8
+seaborn>=0.13
+scikit-learn>=1.4
+umap-learn>=0.5
+# Notebook
+jupyter
+ipykernel
+# Optional: figure fonts assume Helvetica/Arial available

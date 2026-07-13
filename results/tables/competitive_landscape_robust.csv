@@ -1,0 +1,13 @@
+theme,nih_grants_dedup,pubmed_strict,note
+AD (field total),172,28662.0,denominator
+Barrier / filaggrin,88,,largest funded theme
+Skin microbiome,51,,
+Biologics / IL-4·IL-13,48,,extracellular; established
+Itch / neuro / IL-31,34,,out of atlas scope
+Th2 differentiation,32,1968.0,adjacent; single-factor
+JAK-STAT / JAK inhibitors,6,354.0,established
+Transcription-factor biology,7,,adjacent; one TF at a time
+STAT6 specifically,3,101.0,our anchor
+GATA3 specifically,3,39.0,our anchor
+Genome-scale Perturb-seq/CRISPR screen,1,0.0,"OUR METHOD — 1 grant=microbiome, 0 papers"
+Targeted degradation / PROTAC,0,1.0,"OUR ANGLE — 0 grants, 1 paper (PMID 38262152)"

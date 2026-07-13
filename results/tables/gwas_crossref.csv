@@ -1,0 +1,81 @@
+gene,n_allergic_disease_loci,n_type2_blood_loci,top_disease_trait,top_disease_p,top_disease_rs,top_disease_study,top_disease_pmid,gwas_disease_score
+ACTR8,0,0,,,,,,0
+ADAM19,5,1,asthma,8e-12,rs13355228,GCST90468112,39789286,12
+BATF,2,24,atopic eczema,4e-9,rs175714,GCST90503108,40164604,9
+BHLHE40,3,0,atopic eczema,2e-10,rs11130215,GCST90503108,40164604,10
+BRD1,0,0,,,,,,0
+BRK1,0,0,,,,,,0
+CAND1,0,0,,,,,,0
+CAPZA1,0,0,,,,,,0
+CD3E,0,0,,,,,,0
+CLCC1,0,0,,,,,,0
+CNOT6L,0,0,,,,,,0
+COPS9,0,0,,,,,,0
+COQ3,0,0,,,,,,0
+COX15,0,0,,,,,,0
+CREB1,1,0,allergen exposure measurement,4e-9,rs73056905,GCST90569453,40187613,9
+DAP,0,2,,,,,,0
+DCAF5,0,0,,,,,,0
+DGKZ,0,0,,,,,,0
+DOHH,0,0,,,,,,0
+EDC3,0,0,,,,,,0
+EIF3L,0,0,,,,,,0
+ELP5,0,0,,,,,,0
+ERCC1,1,0,asthma exacerbation measurement,4e-6,rs8109532,GCST011570,32890573,6
+FBXO32,0,0,,,,,,0
+GNS,3,0,allergen exposure measurement,1e-8,rs1269548,GCST90569028,40187613,8
+HDHD3,0,0,,,,,,0
+HPS1,0,0,,,,,,0
+ID2,0,0,,,,,,0
+IL2RB,4,11,asthma,1e-15,rs228953,GCST90652529,41213931,15
+IL4R,38,32,asthma,2e-32,rs3024556,GCST90399687,36777996,32
+INO80,2,0,allergen exposure measurement,2e-10,rs76495904,GCST90569451,40187613,10
+INPP5F,0,0,,,,,,0
+ITK,3,3,asthma,8e-10,rs76493820,GCST90014325,34103634,10
+KDM3B,1,0,allergen exposure measurement,4e-8,rs78702109,GCST90569432,40187613,8
+KMT2C,1,0,allergen exposure measurement,4e-7,rs73164512,GCST90569383,40187613,7
+KPNA1,0,0,,,,,,0
+LAT2,0,0,,,,,,0
+LEO1,0,0,,,,,,0
+MLST8,0,0,,,,,,0
+MYB,0,28,,,,,,0
+MYO9A,0,0,,,,,,0
+NAA40,0,0,,,,,,0
+NCAPG2,0,0,,,,,,0
+NFKBIL1,6,3,atopic asthma,1e-13,rs34492353,GCST009850,31669095,13
+NFRKB,0,0,,,,,,0
+NRAS,0,0,,,,,,0
+ORAI1,0,0,,,,,,0
+OTUD4,0,0,,,,,,0
+PARP14,0,0,,,,,,0
+PCYT2,0,0,,,,,,0
+PDCL,0,0,,,,,,0
+PDSS1,0,0,,,,,,0
+PHF8,0,0,,,,,,0
+PLCG1,0,0,,,,,,0
+PPP3R1,0,0,,,,,,0
+PPP4C,0,4,,,,,,0
+PRR12,0,0,,,,,,0
+PTPRC,14,20,asthma,3e-15,rs76181804,GCST90399687,36777996,15
+RAC2,0,0,,,,,,0
+SAMD1,0,0,,,,,,0
+SARS2,0,0,,,,,,0
+SEC14L2,0,0,,,,,,0
+SMAD4,7,1,childhood onset asthma,4e-13,rs1893380,GCST007800,30929738,13
+SMARCA4,0,0,,,,,,0
+SMARCB1,0,0,,,,,,0
+SMARCC1,0,0,,,,,,0
+SMARCE1,32,17,Eczematoid dermatitis,3e-68,rs112401631,GCST007075,30595370,68
+TASOR,2,0,asthma,3e-9,rs9813229,GCST010043,32296059,9
+TBL1XR1,19,5,asthma,4e-15,rs7626218,GCST010043,32296059,15
+TEFM,0,0,,,,,,0
+TENT2,0,0,,,,,,0
+TMED9,0,0,,,,,,0
+TMX1,1,0,allergen exposure measurement,3e-7,rs55691111,GCST90569451,40187613,7
+TNPO1,0,0,,,,,,0
+TOR1A,0,0,,,,,,0
+TPD52,1,1,asthma exacerbation measurement,8e-7,rs113742116,GCST90131478,35501119,7
+UBE2F,0,5,,,,,,0
+WNK1,1,2,atopic eczema,3e-9,rs718389,GCST90503109,40164604,9
+ZAP70,0,1,,,,,,0
+ZNF649,0,0,,,,,,0

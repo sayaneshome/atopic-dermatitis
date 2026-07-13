@@ -1,0 +1,40 @@
+# Upload manifest
+file | size | sha256(12)
+---|---|---
+.gitignore | 265 B | 33346cb684f6
+LICENSE | 790 B | 018abab69138
+METHODS_and_RESULTS.md | 40,184 B | 74320bfc373c
+README.md | 6,401 B | c51b6a76c9cc
+SUBMISSION_researcher.md | 15,921 B | 969ee91ec00a
+requirements.txt | 273 B | 5fb03cd07a06
+data/README.md | 1,632 B | 10e2f53ce189
+notebooks/highlights.ipynb | 52,066 B | d8a56c669140
+pipeline/run_th2_screen.py | 5,056 B | f2aeb87722aa
+pipeline/th2_collapse_scorer.py | 3,374 B | ed06db044b8b
+results/figures/fig_classifier_validation.png | 120,697 B | b899412ab964
+results/figures/fig_competitive_landscape.png | 140,862 B | 99f2be76419b
+results/figures/fig_control_validation.png | 107,355 B | a9b5908e4259
+results/figures/fig_drilldown_TYK2.png | 137,857 B | 9ea00094d2a0
+results/figures/fig_latent_umap.png | 618,855 B | 554367b2a813
+results/figures/fig_lesional_validation.png | 92,802 B | 8c8facf116db
+results/figures/fig_multiaxis_target_map.png | 313,993 B | de9dbf61c86e
+results/figures/fig_network_topology.png | 306,644 B | 59e0017738e3
+results/figures/fig_redundancy_heatmap.png | 208,091 B | ad21e1494291
+results/figures/fig_repurposing_candidates.png | 275,154 B | 91f14fa54eda
+results/figures/fig_shortlist_profile.png | 177,808 B | 61d504ce07aa
+results/figures/fig_translational_priority.png | 126,089 B | 05909457ac7b
+results/tables/MULTIAXIS_integrated_shortlist.csv | 10,229 B | 4bbc82bbfb67
+results/tables/SHORTLIST_master_ranked.csv | 33,289 B | 9376583bb749
+results/tables/ad_drugged_targets.csv | 6,272 B | d8c7bcebd3ee
+results/tables/classifier_predictions.csv | 279,709 B | 201a272a85d1
+results/tables/competitive_landscape_robust.csv | 659 B | 979c6758cc14
+results/tables/degradability_all.csv | 6,381 B | 8e26b8a70bf6
+results/tables/emergent_hits_by_axis.csv | 3,280 B | 16eb47661862
+results/tables/gwas_crossref.csv | 2,601 B | 4491f88ce5ba
+results/tables/lesional_validation.csv | 2,350 B | 32d4a47b5a93
+results/tables/literature_validation.csv | 2,641 B | 821a0335aa36
+results/tables/multiaxis_control_recovery.csv | 751 B | 7177084f7d37
+results/tables/repurposing_ad_trials.csv | 861 B | d486af96ed3c
+results/tables/repurposing_candidates.csv | 4,998 B | aee76b2a0f37
+results/tables/screen_GATA3_ranked.csv | 137,041 B | 0e66bcea14e3
+results/tables/screen_STAT6_ranked.csv | 137,173 B | 631a8ff2a8d1
